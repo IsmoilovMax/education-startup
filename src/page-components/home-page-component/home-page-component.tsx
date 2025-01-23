@@ -14,11 +14,10 @@ const HomePageComponent = () => {
 			<div className={styles.hero}>
 				<div className={styles.heroTitle}>
 					<Heading tag='h1'>
-						Lern New Skills Online With Sammi <span>Academy</span>
+						Learn New Skills Online with Education <span>Academy</span>
 					</Heading>
 					<Text>
-						Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil nulla adipisci temporibus ad, veniam blanditiis optio
-						voluptatibus eius id, eaque, ex aperiam quam voluptatum deleniti quos? Quis voluptatum rem quaerat.
+					Unlock your potential with Education Academy! Explore free programming courses, hands-on projects, and algorithm exercises. Build your portfolio, craft a professional resume, and master cutting-edge JavaScript technologies like React.js and Vue.js. Learn at your own pace with resources tailored for beginners and experts alike. Join us to kickstart your journey in IT!
 					</Text>
 					<Button appearance='success' arrow='right'>
 						Join For Free

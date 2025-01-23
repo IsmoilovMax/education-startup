@@ -1,16 +1,16 @@
 export const siteConfig = {
 	metaData: {
-		title: 'Sammi | Dasturlash kurslari',
+		title: 'Edu | Programming Courses',
 		description:
-			"Bepul dasturlash darslari va loyihalar, algoritmlarni mustahkamlash uchun mashqlar. Tayyor shablonlar, shaxsiy profil portfolio va rezyume. JavaScriptga oid texnologiyalarni o'rganish. SAMMI",
-		author: 'Samar Badriddinov',
+			"Free programming lessons and projects, exercises to strengthen algorithms. Ready-made templates, personal profile portfolio, and resume. Learn JavaScript-related technologies. Max",
+		author: 'Max Ismoilov',
 		keyword:
-			"samar badriddinov, sammi, dasturlash kurslari, dasturlashga oid darslar, reactjs uzbek tilida, vuejs uzbek tilida, redux uzbek tilida, sammi, sammi academy, bepul dasturlash, rezyume yozish, portfolio, sammi javascript, sammi raqamli avlod, javascript, reactjs, vuejs, javascript darslari, reactjs darslari, vuejs darslari, dasturlash darslari, o'zbek tilida dasturlash, reactjs o'zbek tilida, reactjs darslari o'zbek tilida, javascript darslari, javascript darslari o'zbek tilida, dasturash darslari o'zbek tilida, dasturlashni o'rganish, dasturlash, IT loyihalar o'zbek tilida",
+			"programming courses, programming lessons,  free programming, writing resumes, portfolio",
 		ogImage: 'https://media.graphassets.com/BW4BRUnCQJWCazTdKnVQ',
 	},
-	baseURL: 'https://sammi.ac/',
+	baseURL: 'http://31.220.51.235:5050/',
 	logo: '/logo.svg',
-	logoText: 'Sammi',
+	logoText: 'Education',
 	favicon: '/logo.svg',
-	copyright: 'Sammi. Barcha huquqlar himoyalangan.',
+	copyright: 'Education. All rights reserved.',
 };
