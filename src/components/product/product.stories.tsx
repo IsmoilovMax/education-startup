@@ -15,7 +15,7 @@ export const Model: ComponentStory<typeof Product> = ({ ...props }) => {
 		category: 'ReactJS',
 		price: 500,
 		credit: 20,
-		images: 'https://media.graphassets.com/5EQ4Vs3RQiTkQOlthLwA',
+		images: '',
 		oldPrice: 700,
 		description:
 			'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates illo ab tenetur est eaque ullam quis adipisci temporibus minima enim.',

@@ -6,7 +6,7 @@ export const siteConfig = {
 		author: 'Max Ismoilov',
 		keyword:
 			"programming courses, programming lessons,  free programming, writing resumes, portfolio",
-		ogImage: 'https://media.graphassets.com/BW4BRUnCQJWCazTdKnVQ',
+		ogImage: '',
 	},
 	baseURL: 'http://31.220.51.235:5050/',
 	logo: '/logo.svg',
