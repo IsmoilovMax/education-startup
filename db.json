@@ -460,51 +460,52 @@
 			"_id": "reactjs_id",
 			"category": "ReactJS",
 			"tags": ["ReactJS", "Redux", "Redux toolkit", "NodeJS", "TypeScript", "Webpack"],
-			"description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laboriosam eos rem, similique libero sunt architecto pariatur doloremque quaerat repellat porro accusamus possimus dolor consectetur alias necessitatibus tempora molestias voluptatibus dignissimos rerum, suscipit magnam facilis velit. Ratione iste officiis commodi at? Quam magnam suscipit architecto ipsa beatae fugit ea dolorem. Quaerat voluptate saepe reprehenderit temporibus excepturi voluptates quae voluptatum. Error quasi veritatis id voluptatum delectus. Doloremque accusantium aspernatur sed harum nesciunt? Dolor alias voluptas odit harum quia modi quisquam laborum et?",
+			"description": "ReactJS is a popular JavaScript library used for building user interfaces, especially for single-page applications. It allows developers to build dynamic and responsive web applications with ease. This course covers fundamental and advanced topics like class components, functional components, state management, hooks, and integrating APIs. Additionally, students will learn how to use Redux for state management and Redux Toolkit for efficient development. React's component-based architecture helps in creating reusable UI components, and with the combination of NodeJS and TypeScript, this course provides a full-stack approach to modern web development.",
 			"hh": {
 				"count": 1307,
 				"juniorSalary": 500,
-				"middleSalary": 100,
+				"middleSalary": 1000,
 				"seniorSalary": 1500
 			},
 			"advantages": [
 				{
 					"title": "ReactJS class component",
-					"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe perferendis nobis neque dolorum animi ab, inventore fugiat dolore laudantium perspiciatis?",
+					"description": "Class components are the traditional way of defining components in React, providing features like state and lifecycle methods. They allow developers to build more structured and maintainable components.",
 					"id": "adv_1"
 				},
 				{
 					"title": "ReactJS function component",
-					"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe perferendis nobis neque dolorum animi ab, inventore fugiat dolore laudantium perspiciatis?",
+					"description": "Function components are simpler and more modern, allowing developers to build components with just a function. They are easier to read and maintain, and with hooks, they can handle state and side effects.",
 					"id": "adv_2"
 				},
 				{
-					"title": "Hooklar",
-					"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe perferendis nobis neque dolorum animi ab, inventore fugiat dolore laudantium perspiciatis?",
+					"title": "Hooks",
+					"description": "React Hooks allow developers to use state and other React features without writing a class. Hooks like useState, useEffect, and custom hooks provide powerful ways to manage component behavior.",
 					"id": "adv_3"
 				},
 				{
 					"title": "Shaxsiy hooklar",
-					"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe perferendis nobis neque dolorum animi ab, inventore fugiat dolore laudantium perspiciatis?",
+					"description": "Custom hooks allow you to extract component logic into reusable functions, making your code cleaner and more maintainable.",
 					"id": "adv_4"
 				},
 				{
 					"title": "Loyihalar",
-					"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe perferendis nobis neque dolorum animi ab, inventore fugiat dolore laudantium perspiciatis?",
+					"description": "You will work on real-world projects that will allow you to apply everything you’ve learned. These projects are designed to challenge your knowledge and enhance your problem-solving skills.",
 					"id": "adv_5"
 				},
 				{
 					"title": "Service bilan ishlash",
-					"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe perferendis nobis neque dolorum animi ab, inventore fugiat dolore laudantium perspiciatis?",
+					"description": "Learn how to integrate services and API calls into your React application, enabling you to fetch data from servers, handle asynchronous operations, and display dynamic content.",
 					"id": "adv_6"
 				},
 				{
 					"title": "API",
-					"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe perferendis nobis neque dolorum animi ab, inventore fugiat dolore laudantium perspiciatis?",
+					"description": "Learn how to build and integrate APIs with React to create interactive, data-driven applications. You’ll be able to fetch, display, and update data efficiently using RESTful services.",
 					"id": "adv_7"
 				}
 			]
-		},
+		}
+		,
 		{
 			"alias": "vue-js",
 			"title": "VueJS Courses",
